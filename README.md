@@ -1,4 +1,4 @@
-## Telegram messenger CLI [![Build Status](https://travis-ci.org/kolmogorov42/tg.svg?branch=cygwin)](https://travis-ci.org/kolmogorov42/tg)
+## Telegram messenger CLI [![Build Status](https://travis-ci.org/kolmogorov42/tg.svg?branch=master)](https://travis-ci.org/kolmogorov42/tg)
 
 Command-line interface for [Telegram](http://telegram.org). Uses readline interface.
 
